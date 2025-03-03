@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227015921.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250223143156.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227020041.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227021657.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227023830.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250225155124.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227021416.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227020122.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227023016.xml" />
+        <option value="$PROJECT_DIR$/.history/employee-service/pom_20250227023108.xml" />
+        <option value="$PROJECT_DIR$/.history/service-registry/pom_20250225211036.xml" />
+        <option value="$PROJECT_DIR$/.history/service-registry/pom_20250227021307.xml" />
+        <option value="$PROJECT_DIR$/.history/service-registry/pom_20250225205206.xml" />
+        <option value="$PROJECT_DIR$/.history/department-service/pom_20250225213642.xml" />
+        <option value="$PROJECT_DIR$/.history/department-service/pom_20250225213216.xml" />
+        <option value="$PROJECT_DIR$/.history/department-service/pom_20250223143211.xml" />
+        <option value="$PROJECT_DIR$/.history/department-service/pom_20250225213051.xml" />
+        <option value="$PROJECT_DIR$/.history/department-service/pom_20250225213512.xml" />
+        <option value="$PROJECT_DIR$/.history/department-service/pom_20250225213314.xml" />
+        <option value="$PROJECT_DIR$/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/config-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23 (4)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
